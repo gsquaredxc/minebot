@@ -10,7 +10,7 @@ public class SaferuleSettings {
 	
 	private boolean allowTopOfWorldHit = false;
 	
-	private int placeTorchLightLevel = 3;
+	private int placeTorchLightLevel = 7;
 	
 	private int minimumPlayerDistance = 10;
 	
