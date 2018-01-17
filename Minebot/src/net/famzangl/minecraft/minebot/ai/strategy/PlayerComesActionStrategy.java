@@ -34,6 +34,6 @@ public class PlayerComesActionStrategy extends CloseEntityActionStrategy {
 
 	@Override
 	public String getDescription(AIHelper helper) {
-		return "Check if other player is comming.";
+		return "Check if other player is coming.";
 	}
 }
